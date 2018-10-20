@@ -6,3 +6,6 @@
 
 ## IntelliJ
 /.idea/
+
+### Java ###
+*.class
